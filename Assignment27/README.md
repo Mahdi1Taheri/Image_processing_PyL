@@ -20,8 +20,8 @@ and I put a snowfall effect on the image using `cv2.circle` method:
 
 ## A TV with noises
 
-background image:
-[![old-tv.jpg](https://i.postimg.cc/m2pzbxhH/old-tv.jpg)](https://postimg.cc/CzDLNQGh)
+background image: <br>
+[![old-tv.jpg](https://i.postimg.cc/m2pzbxhH/old-tv.jpg)](https://postimg.cc/CzDLNQGh)<br>
 
 and I put a noise effect into the TV and it will save as gif:
 ![noise gif](https://s8.uupload.ir/files/noise_ck3b.gif)

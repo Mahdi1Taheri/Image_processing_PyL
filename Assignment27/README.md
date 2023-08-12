@@ -10,6 +10,22 @@ orginal image of a bat:<br/>
 after threshold: <br/>
 ![thresholded](https://i.postimg.cc/yNR5nzw4/Batman-logo.jpg) <br/>
 
+## Snowfall gif
+
+here is the background image: <br>
+![background](https://i.postimg.cc/vTh1xTMQ/winter-house.jpg)<br>
+
+and I put a snowfall effect on the image using `cv2.circle` method:
+![snowfall gif](https://s8.uupload.ir/files/snowfall_vg93.gif)
+
+## A TV with noises
+
+background image:
+[![old-tv.jpg](https://i.postimg.cc/m2pzbxhH/old-tv.jpg)](https://postimg.cc/CzDLNQGh)
+
+and I put a noise effect into the TV and it will save as gif:
+![noise gif](https://s8.uupload.ir/files/noise_ck3b.gif)
+
 
 
 

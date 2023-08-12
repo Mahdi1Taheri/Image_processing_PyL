@@ -24,7 +24,7 @@ background image: <br>
 ![old-tv.jpg](https://i.postimg.cc/m2pzbxhH/old-tv.jpg)]<br>
 
 and I put a noise effect into the TV and it will save as gif:
-![noise gif](https://s8.uupload.ir/files/noise_ck3b.gif)
+![noise gif](https://s8.uupload.ir/files/noise_7wvy.gif)
 
 
 

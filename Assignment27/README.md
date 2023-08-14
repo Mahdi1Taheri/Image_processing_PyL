@@ -8,7 +8,7 @@ Libraries:
 orginal image of a bat:<br/>
 ![bat](https://i.postimg.cc/zDFs983q/bat.jpg) <br>
 after threshold: <br/>
-![thresholded](https://i.postimg.cc/yNR5nzw4/Batman-logo.jpg) <br/>
+[![Batman-logo.jpg](https://i.postimg.cc/bvpnR73p/Batman-logo.jpg)](https://postimg.cc/nXSMFwyP) <br/>
 
 ## Snowfall gif
 

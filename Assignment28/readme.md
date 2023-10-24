@@ -1,5 +1,5 @@
 ## How to run
-run the below code in terminal
+run the below code in terminal <br/>
 ``` python filename.py```
 ## Cat detector
 give it a cat image and it will count the number of cats in the image.<br/>

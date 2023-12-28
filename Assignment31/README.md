@@ -36,13 +36,32 @@ This program will show the edges using [kernels](https://medium.com/swlh/image-p
 
 ## Vertical and horizontal edge detection
 we have an image of a building. this program can detect vertical and horizontal edges of that building.<br>
-+ input
++ input<br>
 ![input](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/input/building.png)
 
-+ output horizontal
++ output horizontal<br>
 ![output](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/output/horizontal.png)
 
-+ output vertical
-![output_vertical](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/output/vertical.png)
++ output vertical<br>
+![output_vertical](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/output/vertical.png)<br>
+
+## Noise reduction
+
+In many cases, especially medical photos, it is very necessary to reduce additional noise.<br>
+This program does this in a simple way.
+Mean filtering is a simple and easy to implement method of smoothing images. It is often used to reduce noise in images.<br>
+The mean filter is computed using a convolution. The idea of mean filtering is simply to replace each pixel value in an image<br> 
+with the mean (average) value of its neighbors, including itself.<br> 
+Often a 3×3 square kernel is used, although larger kernels (e.g. 5×5 squares) can be used for more severe smoothing.<br> 
++ image 1<br>
+![input](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/5dfcf397e87be0d61daf4f8ae833152bfaf450dd/Assignment31/input/board_noisy.png)
++ output 1<br>
+![output1](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/5dfcf397e87be0d61daf4f8ae833152bfaf450dd/Assignment31/output/board_noise_reduced.png)<br>
+
++ image 2 <br>
+![input2](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/5dfcf397e87be0d61daf4f8ae833152bfaf450dd/Assignment31/input/image_noisy.png)<br>
++ output 2 <br>
+![output2](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/5dfcf397e87be0d61daf4f8ae833152bfaf450dd/Assignment31/output/circle_noise_reduced.png)
+
 
 

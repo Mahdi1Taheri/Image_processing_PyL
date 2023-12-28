@@ -34,4 +34,15 @@ This program will show the edges using [kernels](https://medium.com/swlh/image-p
 + output
 ![output](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/a38d79827a46f5477561fa20231408cac9161ebb/Assignment31/output/edge_detect.png)
 
-##
+## Vertical and horizontal edge detection
+we have an image of a building. this program can detect vertical and horizontal edges of that building.<br>
++ input
+![input](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/input/building.png)
+
++ output horizontal
+![output](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/output/horizontal.png)
+
++ output vertical
+![output_vertical](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/2964cfe41f540fda1c34ec1e2879df376e1e117a/Assignment31/output/vertical.png)
+
+

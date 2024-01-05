@@ -1,4 +1,4 @@
-# Assignment32(6th)
+# Assignment32(4.7)
 ## Applying Convolution filters on image
 to apply different filters on image, we use 2d arrays called kernels.<br>
 In image convolution, involves a kernel that is applied over the input image’s pixels to generate an output image.<br>

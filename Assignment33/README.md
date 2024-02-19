@@ -10,5 +10,5 @@ It's a famous filter to replace parts of a face with your face using a webcam<br
 Result:<br>
 ![face filter](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/main/Assignment33/output/face_filter_output.png?raw=true)
 ## Reconstruct Image from a histogram
-Here is a function that attempts an image with a similar histogram distribution.
-ا
+[Here](Assignment33/reconstruc_hist.py) is a function that attempts an image with a similar histogram distribution.
+

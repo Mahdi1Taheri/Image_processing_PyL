@@ -16,7 +16,7 @@ here is the background image: <br>
 ![background](https://i.postimg.cc/vTh1xTMQ/winter-house.jpg)<br>
 
 and I put a snowfall effect on the image using `cv2.circle` method:
-![snowfall gif](https://s8.uupload.ir/files/snowfall_vg93.gif)
+![snowfall gif](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/main/Assignment27/snowfall.gif)
 
 ## A TV with noises
 
@@ -24,8 +24,8 @@ background image: <br>
 ![old-tv.jpg](https://i.postimg.cc/m2pzbxhH/old-tv.jpg)<br>
 
 and I put a noise effect into the TV and it will save as gif: <br>
-(I don't know why the gif doesn't show:/ )
-![noise_gif](https://s8.uupload.ir/files/noise_7wvy.gif)
+
+![noise_gif](https://github.com/Mahdi1Taheri/Image_processing_PyL/blob/main/Assignment27/noise.gif)
 <br>
 This is it!
 
